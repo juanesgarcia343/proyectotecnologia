@@ -1,0 +1,239 @@
+#titulo{
+  font-size: 250%;
+  text-shadow: 2px 1px 0.5px red;
+}
+
+.objetivo{
+  font-size: 50px;
+  text-shadow: 7px 4px 5px white;
+  color: Black;
+}
+.categorias{
+  font-size: 50px;
+  text-shadow: 7px 4px 5px white;
+  color: Black;
+}
+
+.actualidad1{
+  text-indent: 0px;
+  text-shadow: 6px 3px 4px white;
+  color: black;
+}
+
+.actualidad{
+  text-indent: 500px;
+  text-shadow: 7px 4px 5px black;
+  color: white;
+  text-align: left;
+   position: absolute;
+     top: 0px;
+}
+
+.actualidad{ 
+  display: block; 
+  margin left:auto;
+  filter: contrast(100%);
+}
+
+.actualidad3{
+position: absolute;
+left: 400px;
+top: 700px;  
+width: 400px;  
+}
+  
+.actualidad4{
+ font-family: monospace;
+}
+
+.deportes1{
+  text-indent: 0px;
+  text-shadow: 6px 3px 4px white;
+  color: black;
+}
+
+.deportes{
+  text-indent: 500px;
+  text-shadow: 7px 4px 5px black;
+  color: white;
+  text-align: left;
+   position: absolute;
+     top: 0px;
+}
+
+.deportes{ 
+  display: block; 
+  margin left:auto;
+  filter: contrast(100%);
+}
+
+.deportes3{
+position: absolute;
+left: 400px;
+top: 2000px;  
+width: 400px;  
+}
+  
+.deportes4{
+ font-family: monospace;
+}
+
+.entretenimiento1{
+  text-indent: 0px;
+  text-shadow: 6px 3px 4px white;
+  color: black;
+}
+
+.entretenimiento{
+  text-indent: 500px;
+  text-shadow: 7px 4px 5px black;
+  color: white;
+  text-align: left;
+   position: absolute;
+     top: 0px;
+}
+
+.entretenimiento{ 
+  display: block; 
+  margin left:auto;
+  filter: contrast(100%);
+}
+
+.entretenimiento3{
+position: absolute;
+left: 400px;
+top: 1400px;  
+width: 400px;  
+}
+  
+.entretenimiento4{
+ font-family: monospace;
+}
+
+.musica1{
+  text-indent: 0px;
+  text-shadow: 6px 3px 4px white;
+  color: black;
+}
+
+.musica{
+  text-indent: 500px;
+  text-shadow: 7px 4px 5px black;
+  color: white;
+  text-align: left;
+   position: absolute;
+     top: 0px;
+}
+
+.musica{ 
+  display: block; 
+  margin left:auto;
+  filter: contrast(100%);
+}
+
+.musica3{
+position: absolute;
+left: 400px;
+top: 1700px;  
+width: 400px;  
+}
+  
+.musica4{
+ font-family: monospace;
+}
+
+.politica1{
+  text-indent: 0px;
+  text-shadow: 6px 3px 4px white;
+  color: black;
+}
+
+.politica{
+  text-indent: 500px;
+  text-shadow: 7px 4px 5px black;
+  color: white;
+  text-align: left;
+   position: absolute;
+     top: 0px;
+}
+
+.politica{ 
+  display: block; 
+  margin left:auto;
+  filter: contrast(100%);
+}
+
+.politica3{
+position: absolute;
+left: 400px;
+top: 1100px;  
+width: 400px;  
+}
+  
+.politica4{
+ font-family: monospace;
+}
+
+.actualidade1{
+  text-indent: 0px;
+  text-shadow: 6px 3px 4px white;
+  color: black;
+}
+
+.actualidade{
+  text-indent: 500px;
+  text-shadow: 7px 4px 5px black;
+  color: white;
+  text-align: left;
+   position: absolute;
+     top: 0px;
+}
+
+.actualidade{ 
+  display: block; 
+  margin left:auto;
+  filter: contrast(100%);
+}
+
+.actualidade3{
+position: absolute;
+left: 400px;
+top: 2300px;  
+width: 400px;  
+}
+  
+.actualidade4{
+ font-family: monospace;
+}
+
+.actualidadee1{
+  text-indent: 0px;
+  text-shadow: 6px 3px 4px white;
+  color: black;
+}
+
+.actualidadee{
+  text-indent: 500px;
+  text-shadow: 7px 4px 5px black;
+  color: white;
+  text-align: left;
+   position: absolute;
+     top: 0px;
+}
+
+.actualidadee{ 
+  display: block; 
+  margin left:auto;
+  filter: contrast(100%);
+}
+
+.actualidadee3{
+position: absolute;
+left: 400px;
+top: 2600px;  
+width: 400px;  
+}
+  
+.actualidadee4{
+ font-family: monospace;
+}
